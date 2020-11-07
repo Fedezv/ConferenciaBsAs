@@ -1,0 +1,48 @@
+#navBgColor {
+
+    background-color: #343a40;
+
+}
+
+#navImg img {
+
+    width: 100px;
+
+}
+
+.carousel-item img {
+
+    filter: brightness(50%);
+
+}
+
+.carousel-caption {
+
+    position: absolute;
+    right: 5%;
+    left: 50%;
+    bottom: 80px;
+    text-align: right;
+
+}
+
+
+.section3 img {
+
+    width: 500px;
+
+}
+
+
+#footerBgColor {
+
+    background-color: #214d67;
+    color: white;
+
+}
+
+#footerBgColor a {
+
+    color: white;
+
+}
